@@ -1,4 +1,4 @@
-# Voxy NeoForge 1.21.1
+# Voxy NeoForge 1.21.1 
 
 > **Unofficial NeoForge port** of the Voxy mod
 
